@@ -1,6 +1,6 @@
 # ChatGPT In Address Bar
 
-## Handle Settings
+## Setup
 
 1. go to browser://settings/search
 
